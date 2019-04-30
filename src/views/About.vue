@@ -1,5 +1,8 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+<v-content>
+  <h1>hello</h1>
+  <h1>hello</h1>
+  <h1>hello</h1>
+  <h1>hello</h1>
+  </v-content>
 </template>
